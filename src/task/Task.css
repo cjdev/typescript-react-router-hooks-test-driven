@@ -1,0 +1,16 @@
+.Task {
+    display: grid;
+    column-count: 1;
+    justify-content: center;
+}
+
+.Task .elements {
+    display: grid;
+    column-count: 1;
+    justify-content: left;
+    margin-bottom: 0.2em;
+}
+
+.Task .complete {
+    text-decoration: line-through;
+}

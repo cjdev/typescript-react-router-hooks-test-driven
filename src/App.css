@@ -1,0 +1,12 @@
+.not-implemented {
+  border: 3px dashed red;
+  margin: 0.5em;
+  display: grid;
+  justify-content: center;
+}
+
+h2 {
+  font-size: 1.5em;
+  display: block;
+  font-weight: bold;
+}
